@@ -11,5 +11,11 @@
             "email": "welingtonzsilva@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "slim/slim": "4.*",
+        "laminas/laminas-diactoros": "^2.8",
+        "monolog/monolog": "^2.4",
+        "vlucas/phpdotenv": "^5.4",
+        "php-di/php-di": "^6.3"
+    }
 }
