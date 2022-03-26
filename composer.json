@@ -17,5 +17,15 @@
         "monolog/monolog": "^2.4",
         "vlucas/phpdotenv": "^5.4",
         "php-di/php-di": "^6.3"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.5",
+        "squizlabs/php_codesniffer": "*",
+        "slevomat/coding-standard": "^7.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
     }
 }
