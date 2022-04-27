@@ -2,7 +2,7 @@
     "name": "weliton/poc-instagram-api",
     "autoload": {
         "psr-4": {
-            "Weliton\\PocInstagramApi\\": "src/"
+            "Instagram\\": "src/"
         }
     },
     "authors": [
